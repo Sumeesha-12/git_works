@@ -1,4 +1,4 @@
 git clone remote path
 git add -A
 git commit -m "your msg"
-git push orgin main
+git push origin main
